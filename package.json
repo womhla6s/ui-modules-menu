@@ -17,12 +17,12 @@
     "url": "https://github.com/womhla6s/ui-modules-menu.git"
   },
   "author": "womhla6s",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/womhla6s/ui-modules-menu/issues"
   },
   "homepage": "https://github.com/womhla6s/ui-modules-menu#readme",
   "dependencies": {
-    "ui-modules-cli": "^1.0.1"
+
   }
 }

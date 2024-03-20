@@ -1,6 +1,6 @@
 {
   "name": "@womhla6s/ui-modules-menu",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "ui-modules-menu on frontend relbas",
   "main": "ui-modules-menu.js",
   "scripts": {
@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/womhla6s/ui-modules-menu#readme",
   "dependencies": {
-    "@womhla6s/ui-modules-cli": "^1.0.5"
+    "ui-modules-cli": "^1.0.1"
   }
 }

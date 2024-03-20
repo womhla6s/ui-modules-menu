@@ -1,0 +1,28 @@
+{
+  "name": "@womhla6s/ui-modules-menu",
+  "version": "1.0.0",
+  "description": "ui-modules-menu on frontend relbas",
+  "main": "ui-modules-menu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ui",
+    "ux",
+    "module",
+    "bootstrap"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/womhla6s/ui-modules-menu.git"
+  },
+  "author": "womhla6s",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/womhla6s/ui-modules-menu/issues"
+  },
+  "homepage": "https://github.com/womhla6s/ui-modules-menu#readme",
+  "dependencies": {
+    "ui-modules-cli": "^1.0.0"
+  }
+}
